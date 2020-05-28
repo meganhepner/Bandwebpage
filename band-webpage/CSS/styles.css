@@ -16,3 +16,10 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.column {
+  float: left;
+  width: 200px;
+  padding: 10px;
+  background-color: yellowgreen;
+}
